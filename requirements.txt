@@ -1,8 +1,9 @@
 langchain
-flask 
+flask
 sentence-transformers
 pypdf
 python-dotenv
 langchain-pinecone
 langchain-groq
 langchain-community
+
