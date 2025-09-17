@@ -6,4 +6,3 @@ python-dotenv
 langchain-pinecone
 langchain-groq
 langchain-community
-
