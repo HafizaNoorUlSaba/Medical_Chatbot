@@ -1,0 +1,15 @@
+{
+ "argv": [
+  "D:\\nr\\Medical_chatbot\\Medical_Chatbot\\venv\\Scripts\\python.exe",
+  "-Xfrozen_modules=off",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "medical_chatbot_env",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
